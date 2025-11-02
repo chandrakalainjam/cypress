@@ -16,7 +16,7 @@ npm install cypress
 npm run dev
 
 #  Running Cypress Tests
-Option 1: Interactive Mode (Recommended for Development)
+Option 1: Interactive Mode 
 
 npx cypress open
 
