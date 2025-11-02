@@ -1,9 +1,9 @@
 # Getting Started
 
 ## Prerequisites
-Node.js (v16 or higher)
+Node.js
 Git
-A code editor (VS Code recommended)
+A code editor (VS Code)
 
 ## Setup Instructions
 
