@@ -14,6 +14,7 @@ npm install cypress
 
 # Initialize a new project
 npm init -y
+
 This will create package.json in folder location
 
 # Start the Development Server
