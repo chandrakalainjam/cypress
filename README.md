@@ -17,6 +17,7 @@ npm run dev
 
 #  Running Cypress Tests
 Option 1: Interactive Mode (Recommended for Development)
+
 npx cypress open
 
 # Run a specific test file
