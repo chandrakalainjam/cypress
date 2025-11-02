@@ -2,7 +2,9 @@
 
 ## Prerequisites
 Node.js
+
 Git
+
 A code editor (VS Code)
 
 ## Setup Instructions
