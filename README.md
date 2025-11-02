@@ -9,6 +9,7 @@ A code editor (VS Code recommended)
 
 # Install Dependencies
 npm install
+npm install cypress
 
 # Start the Development Server
 npm run dev
