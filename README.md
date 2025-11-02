@@ -1,19 +1,19 @@
-Getting Started
+# Getting Started
 
-Prerequisites
+# Prerequisites
 Node.js (v16 or higher)
 Git
 A code editor (VS Code recommended)
 
-Setup Instructions
+# Setup Instructions
 
-Install Dependencies
+# Install Dependencies
 npm install
 
-Start the Development Server
+# Start the Development Server
 npm run dev
 
-Running Cypress Tests
+#  Running Cypress Tests
 Option 1: Interactive Mode (Recommended for Development)
 npx cypress open
 
